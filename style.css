@@ -1,0 +1,26 @@
+header {
+    padding: 60px;
+    text-align: center;
+    background: #030605;
+    color: white;
+    font-size: 30px;
+    }
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    border: 1px solid #050706
+}
+
+
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+h1{
+    text-align: center;
+}
